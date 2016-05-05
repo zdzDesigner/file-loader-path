@@ -1,0 +1,23 @@
+{
+  "name": "file-loader-path",
+  "version": "0.0.1",
+  "description": "file loader module for webpack , resolve public path",
+  "main": "index.js",
+  "dependencies": {
+    "loader-utils": "~0.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zdzDesigner/file-loader-path"
+  },
+  "keywords": [
+    "file loader","resolve public path"
+  ],
+  "author": "zdzDesigner",
+  "license": "ISC"
+}
