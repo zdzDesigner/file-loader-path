@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+.idea
+.sublime-project
+node_modules
+npm-debug.log
